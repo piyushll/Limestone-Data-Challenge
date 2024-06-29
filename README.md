@@ -1,4 +1,4 @@
-# Tower Research Limestones 2nd Data Challenge: Game of Trust
+# Tower Research Limestone's 2nd Data Challenge: Game of Trust
 
 ## Project Overview
 
